@@ -7,7 +7,7 @@
 * In this project, we will play the game of Checkers, the classic strategy board game. It is a version of the game draughts and is also called American checkers or straight checkers. 
 * The agent uses MINIMAX with ALPHA-BETA pruning to decide the best possible move, given a board configuration.
 ## Setup
-![Board](./resources/board.png?raw=true "Board")
+![Board](./resources/board.PNG?raw=true "Board")
 * It uses an 8x8 checkered gameboard. Each player starts with 12 game pieces placed on the dark squares of the side of the gameboard closest to them, as can be seen in the figure above. The side with the 
 darker colored pieces is usually called ‘Black’ and the side with the lighter color is ‘White’. 
 * Black opens the game. The pieces move diagonally forward and can capture opponent’s pieces by jumping over them. Whenever a piece reaches the opposite side of the board, it is crowned 
@@ -22,7 +22,7 @@ pieces can also move to one of the adjacent backward diagonals.)
 * This move ends this player’s turn, even if the move results in a position 
 that makes one or more subsequent jumps possible (see below for jumps). <br>
 ## A Jump move
-![Jump Move](./resources/jumps.png?raw=true "Jump Move")
+![Jump Move](./resources/jumps.PNG?raw=true "Jump Move")
 * One or more jumps, capturing one or more of the opponent’s pieces (Note: If a 
 jump is possible at any point in the turn, it is mandatory):
 * An adjacent piece of the opponent in any of the allowed diagonal directions, i.e., forward-left and forward-right (and also backward-left and backward-right for king pieces) can be jumped over if there is an empty square on the other side of that piece.
@@ -70,7 +70,7 @@ color and has its own time counter)
 ## Input and output file formats
 
 `Input` <br>
-* ![Input sample](./resources/input_sample.png?raw=true "Input sample")
+* ![Input sample](./resources/input_sample.PNG?raw=true "Input sample")
 * First line: A string SINGLE or GAME to know whether we are playing a single move
 (and can use all of the available time for it) of playing a full game with potentially
 many moves (in which case we should strategically decide how to best allocate
@@ -88,7 +88,7 @@ remaining for the agent.
 <br> . (a dot) for an empty grid cell
   
 `Output`
-* ![Notation](./resources/notation.png?raw=true "Notation")
+* ![Notation](./resources/notation.PNG?raw=true "Notation")
 * 1 or more lines: Describing the move(s). 
 * There are two possible types of moves:
     * E FROM_POS TO_POS – The agent moves one of the pieces from location FROM_POS
@@ -105,14 +105,14 @@ jump per line in output.txt if the play results in more than one jumps
 ## Using the experiment
 
 If you are using an IDE like IntelliJ or Eclipse, use the following steps to run the project
-* Point the working directory to Halma-Game
+* Point the working directory to Checkers
 * Main class: Checkers
 * JRE: 1.8
 * Run the project
 
 If you are running the project on command line, follow these steps:<br/>
 * Clone/Download the project to your local machine.
-* Navigate to the folder with HalmaGame.java file.
+* Navigate to the folder with Checkers.java file.
 * Run the following commands:
 ```
 javac Checkers.java
