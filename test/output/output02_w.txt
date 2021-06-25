@@ -1,0 +1,131 @@
+ 10
+
+=======State start==========
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+..w.....
+.....w..
+w.w...w.
+.w...w.w
+w.w.w.w.
+
+
+=======State end==========
+
+=======State start==========
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+....w...
+.....w..
+w.w...w.
+.w...w.w
+w.w.w.w.
+
+
+=======State end==========
+
+=======State start==========
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+....w...
+...w....
+w.w...w.
+.w...w.w
+w.w.w.w.
+
+
+=======State end==========
+
+=======State start==========
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+......w.
+...w....
+w.w...w.
+.w...w.w
+w.w.w.w.
+
+
+=======State end==========
+
+=======State start==========
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+.w.w.w..
+..w...w.
+.w...w.w
+w.w.w.w.
+
+
+=======State end==========
+
+=======State start==========
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+.w.w.w..
+w.....w.
+.w...w.w
+w.w.w.w.
+
+
+=======State end==========
+
+=======State start==========
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+...w.w.w
+w.w.....
+.w...w.w
+w.w.w.w.
+
+
+=======State end==========
+
+=======State start==========
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+...w.w..
+w.w.w.w.
+.w.....w
+w.w.w.w.
+
+
+=======State end==========
+
+=======State start==========
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+...w.w..
+w.w...w.
+.w.w.w.w
+w...w.w.
+
+
+=======State end==========
+
+=======State start==========
+.b.b.b.b
+b.b.b.b.
+.b.b.b.b
+........
+...w.w..
+w.w...w.
+.w.w.w.w
+w.w...w.
+
+
+=======State end==========
