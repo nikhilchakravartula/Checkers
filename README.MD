@@ -122,7 +122,7 @@ javac Checkers.java
 java Checkers
 ```
 
-## Code Structure / File description
+## File description
 
 `input.txt`
 <br> The master will update input.txt after each move. So, if you would like to watch the game, enable automatic reloading on the input.txt file.
