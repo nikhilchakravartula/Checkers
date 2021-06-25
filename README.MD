@@ -127,6 +127,9 @@ java Checkers
 `input.txt`
 <br> The master will update input.txt after each move. So, if you would like to watch the game, enable automatic reloading on the input.txt file.
 
+`logs.txt`
+<br> logs.txt contains the sequence of steps and the time taken by each color during the course of the game. It can be used for analyzing the kind of moves the agent makes, given some board configuration.
+
 ## Contact
 
 If you want to contact me you can reach me at <nchakrav@usc.edu> or <nikhilchakravartula@gmail.com>
